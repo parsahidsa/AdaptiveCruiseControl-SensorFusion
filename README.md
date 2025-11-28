@@ -34,8 +34,6 @@ AdaptiveCruiseControl-SensorFusion
 └── videos/ → Simulationsergebnisse
 └── simulation.mp4
 
-yaml
-Copy code
 
 ---
 
