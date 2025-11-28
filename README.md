@@ -13,29 +13,6 @@ Ein vollständiges Beispiel für ein **Adaptives Tempomat-System (ACC)** unter V
 
 ---
 
-## **Projektstruktur**
-AdaptiveCruiseControl-SensorFusion
-│
-├── src/ → Haupt-Simulink-Modelle & Skripte
-│ ├── ACC_TestBenchExample.slx
-│ ├── AdaptiveCruiseControlWithSensorFusionExample.m
-│ ├── ACCTestBenchScenario.m
-│ ├── helperACC*.m
-│
-├── images/ → Diagramme & Bilder
-│ ├── dynamicsEqn.png
-│ ├── mpcBirdsEyeScopeACC1.png
-│ ├── plot.jpg
-│
-├── docs/ → Projektbericht (PDF)
-│ └── Projektbericht.pdf
-│
-└── videos/ → Simulationsergebnisse
-└── simulation.mp4
-
-
----
-
 ## **Installation**
 1. **MATLAB installieren** (Version 2021a oder neuer empfohlen)  
 2. **Simulink** und **Automated Driving Toolbox** installieren  
