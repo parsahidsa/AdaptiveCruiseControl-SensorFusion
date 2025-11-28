@@ -18,15 +18,14 @@ AdaptiveCruiseControl-SensorFusion
 │
 ├── src/ → Haupt-Simulink-Modelle & Skripte
 │ ├── ACC_TestBenchExample.slx
-│ ├── ACCWithSensorFusionMdlRef.slx
 │ ├── AdaptiveCruiseControlWithSensorFusionExample.m
 │ ├── ACCTestBenchScenario.m
-│ └── helperACC*.m
+│ ├── helperACC*.m
 │
 ├── images/ → Diagramme & Bilder
 │ ├── dynamicsEqn.png
 │ ├── mpcBirdsEyeScopeACC1.png
-│ └── plot.jpg
+│ ├── plot.jpg
 │
 ├── docs/ → Projektbericht (PDF)
 │ └── Projektbericht.pdf
